@@ -33,5 +33,6 @@
 #define PRIORITY_SWITCH_TASK    4
 #define PRIORITY_WATCH_TASK       1
 #define PRIORITY_HEART_RATE_TASK       2
+#define PRIORITY_STEP_TASK       2
 
 #endif // __PRIORITIES_H__
