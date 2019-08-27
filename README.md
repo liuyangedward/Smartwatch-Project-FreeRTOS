@@ -1,6 +1,6 @@
 # Smartwatch-Project-FreeRTOS
 
-# NOTE: This is one of the side projects I did in early years. The whole project relies on Visual Studio Code to build. I would clean it up and make it more professional in the future.
+# NOTE: This is one of the side projects I did in early years. The whole project relies on Code Composer Studio(CCS) to build. I would clean it up and make it more professional in the future.
 
 
 
